@@ -826,18 +826,22 @@ function selectCorp(code, name) {
   // 토큰 로컬 복원
   loadTokenFromLocal();
 
-  // GitHub에서 매핑 JSON 자동 로드 시도
-  const statusEl = document.getElementById('githubLoadStatus');
-  if (statusEl) statusEl.textContent = '☁️ GitHub에서 매핑 로드 중...';
-  loadFromGitHub(code).then(data => {
-    if (data) {
-      S.mapping = data;
-      showJSONLoaded(`mapping_${code}.json (GitHub)`, data);
-      if (statusEl) { statusEl.textContent = '✅ GitHub 매핑 로드 완료'; statusEl.style.color = 'var(--success)'; }
-    } else {
-      if (statusEl) { statusEl.textContent = '⚠️ GitHub 미발견 — 파일 직접 업로드 또는 기본 데이터 사용'; statusEl.style.color = 'var(--warn)'; }
-    }
-  });
+  // GitHub에서 매핑 JSON 자동 로드 시도 (DOM 완전 로드 후 실행)
+  setTimeout(() => {
+    const statusEl = document.getElementById('githubLoadStatus');
+    if (statusEl) statusEl.textContent = '☁️ GitHub에서 매핑 로드 중...';
+    loadFromGitHub(code).then(data => {
+      if (data) {
+        S.mapping = data;
+        showJSONLoaded(`mapping_${code}.json (GitHub)`, data);
+        const el = document.getElementById('githubLoadStatus');
+        if (el) { el.textContent = '✅ GitHub 매핑 로드 완료'; el.style.color = 'var(--success)'; }
+      } else {
+        const el = document.getElementById('githubLoadStatus');
+        if (el) { el.textContent = '⚠️ GitHub 미발견 — 파일 직접 업로드 또는 기본 데이터 사용'; el.style.color = 'var(--warn)'; }
+      }
+    });
+  }, 100);
 }
 
 function loadJSON(e) {
