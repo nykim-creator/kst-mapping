@@ -823,11 +823,9 @@ function selectCorp(code, name) {
   document.getElementById('jsonPanel').style.pointerEvents = 'auto';
   document.getElementById('jsonCorpName').textContent = code;
 
-  // 토큰 로컬 복원
-  loadTokenFromLocal();
-
   // GitHub에서 매핑 JSON 자동 로드 시도 (DOM 완전 로드 후 실행)
   setTimeout(() => {
+    loadTokenFromLocal();  // 토큰 로컬 복원
     const statusEl = document.getElementById('githubLoadStatus');
     if (statusEl) statusEl.textContent = '☁️ GitHub에서 매핑 로드 중...';
     loadFromGitHub(code).then(data => {
