@@ -154,7 +154,8 @@
     "EDITIO PUBLISHING LLC": "Editio Publishing, LLC",
     "SHENZHEN YUERONG INFORMATION TECHNO": "Shenzhen Yuerong Information Technology Co., Ltd",
     "주식회사콘텐츠": "주식회사 콘텐츠지오",
-    "사단법인배리어": "사단법인 배리어프리영화위원회"
+    "사단법인배리어": "사단법인 배리어프리영화위원회",
+    "임연화": "임연화"
   },
   "partner_single": {
     "(주) 스토리야": {
@@ -1116,6 +1117,10 @@
     "Shenzhen Yuerong Information Technology Co., Ltd": {
       "detail": "서비스매출(타사유통)-웹툰",
       "common": "영업수입-외부유통"
+    },
+    "임연화": {
+      "detail": "기타",
+      "common": "영업수입-기타"
     }
   },
   "partner_multi": {
@@ -8877,12 +8882,5 @@
     "환전",
     "외화매수",
     "외환매도"
-  ],
-  "fx_partner_map": {
-    "나이스정보통신(주)": "영업수입-플랫폼(PG)_KR",
-    "LINE PAY (THAILAND) COMPANY LIMITED": "영업수입-플랫폼(PG)_TH",
-    "REVE BOOKS CO,LTD": "영업수입-외부유통",
-    "SOFT-WORLD INTERNATIONAL CORPORA": "영업지출-광고선전비",
-    "DAOUKIWOOM INNOVATION CO., LTD": "영업지출-지급수수료"
-  }
+  ]
 }
