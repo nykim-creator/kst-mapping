@@ -821,7 +821,7 @@ function selectCorp(code, name) {
   document.getElementById('corpLabel').textContent = `${code} — ${name}`;
   document.getElementById('jsonPanel').style.opacity = '1';
   document.getElementById('jsonPanel').style.pointerEvents = 'auto';
-  document.getElementById('jsonCorpName').textContent = code;
+  const corpNameEl = document.getElementById('jsonCorpName'); if (corpNameEl) corpNameEl.textContent = code;
 
   // GitHub에서 매핑 JSON 자동 로드 시도 (DOM 완전 로드 후 실행)
   setTimeout(() => {
