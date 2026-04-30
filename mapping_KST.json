@@ -156,7 +156,8 @@
     "사단법인배리어": "사단법인 배리어프리영화위원회",
     "마인드마크": "주식회사 마인드마크",
     "(주)스토리타": "주식회사 스토리타코",
-    "조성경": "조성경"
+    "조성경": "조성경",
+    "LG유플러스": "LG유플러스"
   },
   "partner_single": {
     "(주) 스토리야": {
@@ -404,7 +405,7 @@
       "common": "영업수입-외부유통"
     },
     "LG유플러스": {
-      "detail": "서비스매출(영상콘텐츠)-부가판권",
+      "detail": "영상",
       "common": "영업수입-영상"
     },
     "Manga Arabia": {
@@ -71283,6 +71284,36 @@
       "구분": "영업수입-소설",
       "입금": 20000000,
       "출금": 0
+    },
+    {
+      "거래자명": "레진엔터테인먼트",
+      "구분": "영업수입-외부유통",
+      "입금": 100000,
+      "출금": 0
+    },
+    {
+      "거래자명": "애플코리아유한회사",
+      "구분": "영업수입-플랫폼(PG)_KR",
+      "입금": 100909165,
+      "출금": 0
+    },
+    {
+      "거래자명": "레진엔터테인먼트",
+      "구분": "영업수입-기타",
+      "입금": 25700,
+      "출금": 0
+    },
+    {
+      "거래자명": "레진엔터테인먼트",
+      "구분": "영업수입-기타",
+      "입금": 7200,
+      "출금": 0
+    },
+    {
+      "거래자명": "레진엔터테인먼트",
+      "구분": "영업수입-기타",
+      "입금": 138500,
+      "출금": 0
     }
   ],
   "history_fx": [
@@ -72661,12 +72692,15 @@
     "SOFT-WORLD INTERNATIONAL CORPORATIO": "영업수입-플랫폼(PG)_TW",
     "SOFT WORLD HONG KONG INTERNATIONAL": "영업수입-플랫폼(PG)_TW",
     "TOBI-DASHI CO., LTD": "영업수입-외부유통",
-    "DELITOON SAS": "영업수입-외부유통",
+    "DELITOON SAS": "영업지출-콘텐츠 MG/RS",
     "Tapas Entertainment, Inc": "영업지출-콘텐츠 MG/RS",
     "Beijing KuaiKan World Information Technology Co., Ltd.": "영업지출-콘텐츠 MG/RS",
     "MEDIADONUTS PTE. LTD.": "영업지출-광고선전비",
     "EFUN INTERNATIONAL CORPORATION": "영업지출-지급수수료",
-    "DAOUKIWOOM INNOVATION CO., LTD": "영업지출-번역비"
+    "DAOUKIWOOM INNOVATION CO., LTD": "영업지출-번역비",
+    "Nobuyuki Kawaguchi (프로듀싱)": "영업지출-콘텐츠 MG/RS",
+    "Hiroyuki Hayashi (프로듀싱)": "영업지출-콘텐츠 MG/RS",
+    "NHN Fukuoka Corp.(프로듀싱)": "영업지출-지급수수료"
   },
   "special_map": {
     "180007604932": "기타수입-환전",
