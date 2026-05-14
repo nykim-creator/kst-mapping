@@ -71314,6 +71314,12 @@
       "구분": "영업수입-기타",
       "입금": 138500,
       "출금": 0
+    },
+    {
+      "거래자명": "주식회사 카카오엔터테인먼트",
+      "구분": "영업수입-소설",
+      "입금": 30000000,
+      "출금": 0
     }
   ],
   "history_fx": [
@@ -72697,10 +72703,12 @@
     "Beijing KuaiKan World Information Technology Co., Ltd.": "영업지출-콘텐츠 MG/RS",
     "MEDIADONUTS PTE. LTD.": "영업지출-광고선전비",
     "EFUN INTERNATIONAL CORPORATION": "영업지출-지급수수료",
-    "DAOUKIWOOM INNOVATION CO., LTD": "영업지출-번역비",
+    "DAOUKIWOOM INNOVATION CO., LTD": "영업지출-지급수수료",
     "Nobuyuki Kawaguchi (프로듀싱)": "영업지출-콘텐츠 MG/RS",
     "Hiroyuki Hayashi (프로듀싱)": "영업지출-콘텐츠 MG/RS",
-    "NHN Fukuoka Corp.(프로듀싱)": "영업지출-지급수수료"
+    "NHN Fukuoka Corp.(프로듀싱)": "영업지출-지급수수료",
+    "Guangzhou Qingyue Network Technology Company Limited(프로듀싱)": "영업지출-콘텐츠 MG/RS",
+    "Daou (Dalian) Technology development., Ltd.(프로듀싱)": "영업지출-콘텐츠 MG/RS"
   },
   "special_map": {
     "180007604932": "기타수입-환전",
