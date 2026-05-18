@@ -157,7 +157,8 @@
     "마인드마크": "주식회사 마인드마크",
     "(주)스토리타": "주식회사 스토리타코",
     "조성경": "조성경",
-    "LG유플러스": "LG유플러스"
+    "LG유플러스": "LG유플러스",
+    "훈련비고용부": "훈련비고용부"
   },
   "partner_single": {
     "(주) 스토리야": {
@@ -1127,6 +1128,10 @@
     "조성경": {
       "detail": "기타수입-대여금(사내)",
       "common": "기타수입-대여금(사내)"
+    },
+    "훈련비고용부": {
+      "detail": "기타수입-기타",
+      "common": "기타수입-기타"
     }
   },
   "partner_multi": {
@@ -71320,6 +71325,18 @@
       "구분": "영업수입-소설",
       "입금": 30000000,
       "출금": 0
+    },
+    {
+      "거래자명": "주식회사 카카오",
+      "구분": "영업수입-외부유통",
+      "입금": 2626,
+      "출금": 0
+    },
+    {
+      "거래자명": "알라딘커뮤니케이션",
+      "구분": "영업수입-소설",
+      "입금": 74490,
+      "출금": 0
     }
   ],
   "history_fx": [
@@ -72702,13 +72719,27 @@
     "Tapas Entertainment, Inc": "영업지출-콘텐츠 MG/RS",
     "Beijing KuaiKan World Information Technology Co., Ltd.": "영업지출-콘텐츠 MG/RS",
     "MEDIADONUTS PTE. LTD.": "영업지출-광고선전비",
-    "EFUN INTERNATIONAL CORPORATION": "영업지출-지급수수료",
+    "EFUN INTERNATIONAL CORPORATION": "영업지출-광고선전비",
     "DAOUKIWOOM INNOVATION CO., LTD": "영업지출-지급수수료",
     "Nobuyuki Kawaguchi (프로듀싱)": "영업지출-콘텐츠 MG/RS",
     "Hiroyuki Hayashi (프로듀싱)": "영업지출-콘텐츠 MG/RS",
     "NHN Fukuoka Corp.(프로듀싱)": "영업지출-지급수수료",
     "Guangzhou Qingyue Network Technology Company Limited(프로듀싱)": "영업지출-콘텐츠 MG/RS",
-    "Daou (Dalian) Technology development., Ltd.(프로듀싱)": "영업지출-콘텐츠 MG/RS"
+    "Daou (Dalian) Technology development., Ltd.(프로듀싱)": "영업지출-콘텐츠 MG/RS",
+    "Snap Studio Co., Ltd": "영업지출-콘텐츠 MG/RS",
+    "Funguild Inc.": "영업지출-콘텐츠 MG/RS",
+    "Digital Entertainment Inc.": "영업지출-콘텐츠 MG/RS",
+    "Kidaristudio (Thailand) Co., Ltd.  Kidaristudio (Thailand) Co., Ltd.": "영업지출-지급수수료",
+    "TANG, YU-YA": "영업지출-콘텐츠 MG/RS",
+    "ORUKAE Inc.": "영업지출-콘텐츠 MG/RS",
+    "Twitter Asia Pacific Pte. Ltd": "영업지출-광고선전비",
+    "Meta Platforms Ireland Limited": "영업지출-광고선전비",
+    "LIN, JIA-ZHENG": "영업지출-콘텐츠 MG/RS",
+    "REVE BOOKS CO., LTD": "영업지출-콘텐츠 MG/RS",
+    "SYU,YU-HUEI": "영업지출-콘텐츠 MG/RS",
+    "LU, WEI-HSIN": "영업지출-콘텐츠 MG/RS",
+    "Papyless Taiwan Co.": "영업지출-콘텐츠 MG/RS",
+    "Chen, Yi-Jun": "영업지출-콘텐츠 MG/RS"
   },
   "special_map": {
     "180007604932": "기타수입-환전",
