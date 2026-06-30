@@ -158,7 +158,8 @@
     "(주)스토리타": "주식회사 스토리타코",
     "조성경": "조성경",
     "LG유플러스": "LG유플러스",
-    "훈련비고용부": "훈련비고용부"
+    "훈련비고용부": "훈련비고용부",
+    "주식회사 쇼아": "주식회사 쇼아"
   },
   "partner_single": {
     "(주) 스토리야": {
@@ -1132,6 +1133,10 @@
     "훈련비고용부": {
       "detail": "기타수입-기타",
       "common": "기타수입-기타"
+    },
+    "주식회사 쇼아": {
+      "detail": "영상",
+      "common": "영업수입-영상"
     }
   },
   "partner_multi": {
@@ -71337,6 +71342,12 @@
       "구분": "영업수입-소설",
       "입금": 74490,
       "출금": 0
+    },
+    {
+      "거래자명": "네이버웹툰 유한회사",
+      "구분": "영업수입-소설",
+      "입금": 20000000,
+      "출금": 0
     }
   ],
   "history_fx": [
@@ -72715,7 +72726,7 @@
     "SOFT-WORLD INTERNATIONAL CORPORATIO": "영업수입-플랫폼(PG)_TW",
     "SOFT WORLD HONG KONG INTERNATIONAL": "영업수입-플랫폼(PG)_TW",
     "TOBI-DASHI CO., LTD": "영업수입-외부유통",
-    "DELITOON SAS": "영업지출-콘텐츠 MG/RS",
+    "DELITOON SAS": "영업수입-외부유통",
     "Tapas Entertainment, Inc": "영업지출-콘텐츠 MG/RS",
     "Beijing KuaiKan World Information Technology Co., Ltd.": "영업지출-콘텐츠 MG/RS",
     "MEDIADONUTS PTE. LTD.": "영업지출-광고선전비",
@@ -72739,7 +72750,8 @@
     "SYU,YU-HUEI": "영업지출-콘텐츠 MG/RS",
     "LU, WEI-HSIN": "영업지출-콘텐츠 MG/RS",
     "Papyless Taiwan Co.": "영업지출-콘텐츠 MG/RS",
-    "Chen, Yi-Jun": "영업지출-콘텐츠 MG/RS"
+    "Chen, Yi-Jun": "영업지출-콘텐츠 MG/RS",
+    "Cross Cult Entertainment GmbH": "영업수입-외부유통"
   },
   "special_map": {
     "180007604932": "기타수입-환전",
