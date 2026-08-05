@@ -71372,6 +71372,18 @@
       "구분": "영업수입-소설",
       "입금": 20000000,
       "출금": 0
+    },
+    {
+      "거래자명": "애플코리아유한회사",
+      "구분": "영업수입-플랫폼(PG)_KR",
+      "입금": 152895818,
+      "출금": 0
+    },
+    {
+      "거래자명": "레진엔터테인먼트",
+      "구분": "영업수입-기타",
+      "입금": 385100,
+      "출금": 0
     }
   ],
   "history_fx": [
@@ -72750,7 +72762,7 @@
     "SOFT-WORLD INTERNATIONAL CORPORATIO": "영업수입-플랫폼(PG)_TW",
     "SOFT WORLD HONG KONG INTERNATIONAL": "영업수입-플랫폼(PG)_TW",
     "TOBI-DASHI CO., LTD": "영업수입-외부유통",
-    "DELITOON SAS": "영업수입-외부유통",
+    "DELITOON SAS": "영업지출-콘텐츠 MG/RS",
     "Tapas Entertainment, Inc": "영업지출-콘텐츠 MG/RS",
     "Beijing KuaiKan World Information Technology Co., Ltd.": "영업지출-콘텐츠 MG/RS",
     "MEDIADONUTS PTE. LTD.": "영업지출-광고선전비",
@@ -72775,7 +72787,8 @@
     "LU, WEI-HSIN": "영업지출-콘텐츠 MG/RS",
     "Papyless Taiwan Co.": "영업지출-콘텐츠 MG/RS",
     "Chen, Yi-Jun": "영업지출-콘텐츠 MG/RS",
-    "Cross Cult Entertainment GmbH": "영업수입-외부유통"
+    "Cross Cult Entertainment GmbH": "영업수입-외부유통",
+    "AD X MATCHING Co., Ltd.": "영업지출-광고선전비"
   },
   "special_map": {
     "180007604932": "기타수입-환전",
@@ -80099,5 +80112,8 @@
         "common": "영업수입-소설"
       }
     ]
+  },
+  "erp_acct_map": {
+    "운반비 [자금과목:운반비]": "영업지출-기타"
   }
 }
