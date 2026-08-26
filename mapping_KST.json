@@ -71397,6 +71397,36 @@
       "구분": "영업수입-소설",
       "입금": 51090,
       "출금": 0
+    },
+    {
+      "거래자명": "네이버웹툰 유한회사",
+      "구분": "영업수입-외부유통",
+      "입금": 3300000,
+      "출금": 0
+    },
+    {
+      "거래자명": "애플코리아유한회사",
+      "구분": "영업수입-영상",
+      "입금": 17830,
+      "출금": 0
+    },
+    {
+      "거래자명": "주식회사 카카오엔터테인먼트",
+      "구분": "영업수입-외부유통",
+      "입금": 40000000,
+      "출금": 0
+    },
+    {
+      "거래자명": "주식회사 카카오엔터테인먼트",
+      "구분": "영업수입-소설",
+      "입금": 20000000,
+      "출금": 0
+    },
+    {
+      "거래자명": "주식회사 카카오엔터테인먼트",
+      "구분": "영업수입-소설",
+      "입금": 30000000,
+      "출금": 0
     }
   ],
   "history_fx": [
@@ -72775,12 +72805,12 @@
     "SOFT-WORLD INTERNATIONAL CORPORATIO": "영업수입-플랫폼(PG)_TW",
     "SOFT WORLD HONG KONG INTERNATIONAL": "영업수입-플랫폼(PG)_TW",
     "TOBI-DASHI CO., LTD": "영업수입-외부유통",
-    "DELITOON SAS": "영업지출-콘텐츠 MG/RS",
+    "DELITOON SAS": "영업수입-외부유통",
     "Tapas Entertainment, Inc": "영업지출-콘텐츠 MG/RS",
     "Beijing KuaiKan World Information Technology Co., Ltd.": "영업지출-콘텐츠 MG/RS",
     "MEDIADONUTS PTE. LTD.": "영업지출-광고선전비",
     "EFUN INTERNATIONAL CORPORATION": "영업지출-광고선전비",
-    "DAOUKIWOOM INNOVATION CO., LTD": "영업지출-콘텐츠 MG/RS",
+    "DAOUKIWOOM INNOVATION CO., LTD": "영업지출-지급수수료",
     "Nobuyuki Kawaguchi (프로듀싱)": "영업지출-콘텐츠 MG/RS",
     "Hiroyuki Hayashi (프로듀싱)": "영업지출-콘텐츠 MG/RS",
     "NHN Fukuoka Corp.(프로듀싱)": "영업지출-지급수수료",
@@ -72802,7 +72832,11 @@
     "Chen, Yi-Jun": "영업지출-콘텐츠 MG/RS",
     "Cross Cult Entertainment GmbH": "영업수입-외부유통",
     "AD X MATCHING Co., Ltd.": "영업지출-광고선전비",
-    "CHING WIN PUBLISHING CO., LT D": "영업지출-콘텐츠 MG/RS"
+    "CHING WIN PUBLISHING CO., LT D": "영업지출-콘텐츠 MG/RS",
+    "Beijing Kuaikan Dimension Information Technology Co.,Ltd": "영업수입-외부유통",
+    "SHENZHEN YUERONG INFORMATION TECHNOLOGY CO.,LTD.": "영업수입-외부유통",
+    "PAPYLESS TAIWAN CO.,LTD": "영업수입-외부유통",
+    "Tohan Corporation": "영업지출-콘텐츠 MG/RS"
   },
   "special_map": {
     "180007604932": "기타수입-환전",
