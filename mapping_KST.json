@@ -160,7 +160,10 @@
     "LG유플러스": "LG유플러스",
     "훈련비고용부": "훈련비고용부",
     "주식회사 쇼아": "주식회사 쇼아",
-    "주식회사화인컷": "화인컷"
+    "주식회사화인컷": "화인컷",
+    "(주)유로커뮤니": "유로커뮤니케이션",
+    "스튜디오초이": "스튜디오 초이스 주식회사",
+    "(주)핀크럭스": "(주)핀크럭스"
   },
   "partner_single": {
     "(주) 스토리야": {
@@ -304,7 +307,7 @@
       "common": "영업수입-소설"
     },
     "(주)핀크럭스": {
-      "detail": "서비스매출(기타)-관계사외",
+      "detail": "기타",
       "common": "영업수입-기타"
     },
     "(주)한아름닷컴": {
@@ -700,7 +703,7 @@
       "common": "영업수입-영상"
     },
     "유로커뮤니케이션": {
-      "detail": "서비스매출(영상콘텐츠)-부가판권",
+      "detail": "영상",
       "common": "영업수입-영상"
     },
     "유한회사 1승문화산업전문회사": {
@@ -1136,6 +1139,10 @@
       "common": "기타수입-기타"
     },
     "주식회사 쇼아": {
+      "detail": "영상",
+      "common": "영업수입-영상"
+    },
+    "스튜디오 초이스 주식회사": {
       "detail": "영상",
       "common": "영업수입-영상"
     }
@@ -71427,6 +71434,30 @@
       "구분": "영업수입-소설",
       "입금": 30000000,
       "출금": 0
+    },
+    {
+      "거래자명": "주식회사 구루컴퍼니",
+      "구분": "영업수입-외부유통",
+      "입금": 253498,
+      "출금": 0
+    },
+    {
+      "거래자명": "레진엔터테인먼트",
+      "구분": "영업수입-기타",
+      "입금": 87120000,
+      "출금": 0
+    },
+    {
+      "거래자명": "레진엔터테인먼트",
+      "구분": "영업수입-기타",
+      "입금": 9400800,
+      "출금": 0
+    },
+    {
+      "거래자명": "애플코리아유한회사",
+      "구분": "영업수입-플랫폼(PG)_KR",
+      "입금": 178266054,
+      "출금": 0
     }
   ],
   "history_fx": [
@@ -72805,7 +72836,7 @@
     "SOFT-WORLD INTERNATIONAL CORPORATIO": "영업수입-플랫폼(PG)_TW",
     "SOFT WORLD HONG KONG INTERNATIONAL": "영업수입-플랫폼(PG)_TW",
     "TOBI-DASHI CO., LTD": "영업수입-외부유통",
-    "DELITOON SAS": "영업수입-외부유통",
+    "DELITOON SAS": "영업지출-콘텐츠 MG/RS",
     "Tapas Entertainment, Inc": "영업지출-콘텐츠 MG/RS",
     "Beijing KuaiKan World Information Technology Co., Ltd.": "영업지출-콘텐츠 MG/RS",
     "MEDIADONUTS PTE. LTD.": "영업지출-광고선전비",
@@ -72836,7 +72867,9 @@
     "Beijing Kuaikan Dimension Information Technology Co.,Ltd": "영업수입-외부유통",
     "SHENZHEN YUERONG INFORMATION TECHNOLOGY CO.,LTD.": "영업수입-외부유통",
     "PAPYLESS TAIWAN CO.,LTD": "영업수입-외부유통",
-    "Tohan Corporation": "영업지출-콘텐츠 MG/RS"
+    "Tohan Corporation": "영업지출-콘텐츠 MG/RS",
+    "TENGMING INDUSTRIAL CO., LIMITED": "기타수입-기타",
+    "Data Rockie Co., Ltd.": "영업지출-복리후생비"
   },
   "special_map": {
     "180007604932": "기타수입-환전",
