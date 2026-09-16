@@ -71494,6 +71494,18 @@
       "구분": "영업수입-기타",
       "입금": 25000002,
       "출금": 0
+    },
+    {
+      "거래자명": "알라딘커뮤니케이션",
+      "구분": "영업수입-소설",
+      "입금": 479960,
+      "출금": 0
+    },
+    {
+      "거래자명": "알라딘커뮤니케이션",
+      "구분": "영업수입-소설",
+      "입금": 479960,
+      "출금": 0
     }
   ],
   "history_fx": [
@@ -72877,7 +72889,7 @@
     "Beijing KuaiKan World Information Technology Co., Ltd.": "영업지출-콘텐츠 MG/RS",
     "MEDIADONUTS PTE. LTD.": "영업지출-광고선전비",
     "EFUN INTERNATIONAL CORPORATION": "영업지출-광고선전비",
-    "DAOUKIWOOM INNOVATION CO., LTD": "영업지출-지급수수료",
+    "DAOUKIWOOM INNOVATION CO., LTD": "영업지출-기타",
     "Nobuyuki Kawaguchi (프로듀싱)": "영업지출-콘텐츠 MG/RS",
     "Hiroyuki Hayashi (프로듀싱)": "영업지출-콘텐츠 MG/RS",
     "NHN Fukuoka Corp.(프로듀싱)": "영업지출-지급수수료",
@@ -72906,7 +72918,10 @@
     "Tohan Corporation": "영업지출-콘텐츠 MG/RS",
     "TENGMING INDUSTRIAL CO., LIMITED": "기타수입-기타",
     "Data Rockie Co., Ltd.": "영업지출-복리후생비",
-    "REVE BOOKS CO,LTD": "영업수입-외부유통"
+    "REVE BOOKS CO,LTD": "영업수입-외부유통",
+    "Kidaristudio (Thailand) Co., Ltd.": "영업지출-기타",
+    "Meta Platforms Ireland Li": "영업지출-광고선전비",
+    "VIE SHOW CINEMAS CO., LTD": "영업지출-광고선전비"
   },
   "special_map": {
     "180007604932": "기타수입-환전",
